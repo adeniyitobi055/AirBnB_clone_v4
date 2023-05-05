@@ -18,5 +18,7 @@ header .logo {
 	background-color: #cccccc;
 	height: 40px;
 	width: 40px;
-	margin-right: 30px
-
+	margin-right: 30px;
+	margin-left: auto;
+	border-radius:50%;
+}
